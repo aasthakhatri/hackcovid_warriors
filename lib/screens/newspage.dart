@@ -1,4 +1,4 @@
-import 'dart:html';
+
 
 import 'package:flutter/material.dart';
 
@@ -10,7 +10,7 @@ class News extends StatefulWidget{
       }
       
     }
-}   
+  
     
 class _NewsState extends State<News> {
   @override
